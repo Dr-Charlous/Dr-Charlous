@@ -2,7 +2,7 @@
 - 🏫 Currently studying at Piktura in the video game section (3rd year).
 - 🥽 I know/learn C#, C++, GML and a bit of python for the coding languages.
 - 👨‍💻 I use Unity, Game Macker 2, Github, SourceTree, 3DS Max, Substance 3D, ZBrush, Photoshop, After Effects and Premiere Pro.
-- 📫 How to reach me: 
+- 📫 How to reach me
 mail : charles-piercourt@outllok.fr
 discord : dr.charlous
 
