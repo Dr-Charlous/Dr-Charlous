@@ -4,6 +4,7 @@
 - 👨‍💻 I use Unity, Game Macker 2, Github, SourceTree, 3DS Max, Substance 3D, ZBrush, Photoshop, After Effects and Premiere Pro.
 
 mail : charles-piercourt@outllok.fr
+
 discord : dr.charlous
 
 I am a little Dev who wants to learn coding, developping games and other stuffs 😁
