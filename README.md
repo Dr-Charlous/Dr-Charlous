@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🏫 Currently studying at Piktura in the video game section (4th year).
-- 🥽 I know/learn C#, C++, GML and a bit of python for the coding languages.
-- 👨‍💻 I use Unity, Game Maker 2, Github, SourceTree, 3DS Max, Substance 3D, ZBrush, Photoshop, After Effects and Premiere Pro.
+- 🥽 I know/learn C#, C++, GML and a bit of python.
+- 👨‍💻 I use Unity, Game Maker 2, Github, SourceTree, Blender, 3DS Max, Substance Painter, Photoshop, After Effects and Premiere Pro.
 
 itch.io : https://piercourt-charles.itch.io/
 
@@ -9,7 +9,7 @@ mail : charles-piercourt@outlook.fr
 
 discord : dr.charlous
 
-I am a little Dev who wants to learn coding, developping games and other stuffs 😁
+I am a little Dev who wants to learn coding, developping games and other stuffs 😊
 <!--
 Currently studying at Piktura in the video game section (3rd year).
 I know/learn C#, C++, GML and a bit of python for the coding languages.
