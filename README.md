@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>- 🏫 Currently studying at Piktura in the video game section (4th year).<br>- 🥽 I know/learn C#, C++, GML and a bit of python.<br>- 👨‍💻 I use Unity, Game Maker 2, Github, SourceTree, Blender, 3DS Max, Substance Painter, Photoshop, After Effects and Premiere Pro.<br><br>discord : dr.charlous<br><br>I am a little Dev who wants to learn coding, developping games and other stuffs 😊
+Hi there 👋<br><br>- 🏫 Currently studying at Piktura in the video game section (4th year).<br>- 🥽 I know/learn C#, C++, GML and a bit of python.<br>- 👨‍💻 I use Unity, Game Maker 2, Github, SourceTree, Blender, 3DS Max, Substance Painter, Photoshop, After Effects and Premiere Pro.<br><br>discord : dr.charlous<br>itch : https://piercourt-charles.itch.io<br><br>I am a little Dev who wants to learn coding, developping games and other stuffs 😊
 
 
 ## 🌐 Socials:
@@ -11,6 +11,8 @@ Hi there 👋<br><br>- 🏫 Currently studying at Piktura in the video game sect
 ![](https://github-readme-stats.vercel.app/api?username=Dr-Charlous&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dr-Charlous&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Charlous&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
